@@ -1,5 +1,5 @@
-## Sobre o Projeto
+## The project
 
-Projeto desenvolvido acompanhando o curso presente no MyCodeCamp.org
+Project was developed following along the course at MyCodeCamp.org
 
-Para sua visualização, baixe o repositório e rode o código na pasta raiz: php artisan serve
+Download the repository and run the code: php artisan serve
